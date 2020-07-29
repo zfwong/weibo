@@ -1,10 +1,10 @@
 @extends('layouts.default')
 @section('title', 'Register')
 @section('content')
-<div class="offset-md-2 col-md-8">
-  <div class="card ">
-    <div class="card-header">
-      <h1>Register</h1>
+  <div class="offset-md-2 col-md-8">
+    <div class="card ">
+      <div class="card-header">
+        <h1>Register</h1>
       </div>
       <div class="card-body">
 
